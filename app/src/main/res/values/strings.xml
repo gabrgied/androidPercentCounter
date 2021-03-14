@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">GiedraitytePercentCounter</string>
+    <string name="app_title" translatable="false">Percent counter</string>
+    <string name="author" translatable="false">Gabrielė Giedratytė</string>
+    <string name="result1" translatable="false">
+       <p>Prekė kainavo: </p>
+        <p>Nuolaida buvo: </p>
+        <p>Kaina su nuolaida : </p>
+    </string>
+
+</resources>
